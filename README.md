@@ -15,27 +15,3 @@ Right now I work as a Principle Crafter at [8th Light](https://github.com/8thlig
 A deep dive into the technologies that make up the internet and rebuilding bad versions one at a time.
 ### 👯 I’m looking to collaborate on ...
 Improving trust and content reliability and accessibility on the internet
-
-<!--
-**ninjapanzer/ninjapanzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ninjapanzer&theme=oldie)](https://github.com/ryo-m/github-profile-trophy)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjapanzer&show_icons=true&locale=en&layout=compact" alt="ninjapanzer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjapanzer&show_icons=true&locale=en" alt="ninjapanzer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninjapanzer&" alt="ninjapanzer" /></p>
-
